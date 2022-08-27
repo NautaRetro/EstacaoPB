@@ -1,0 +1,7 @@
+p { color: orange;
+    font-size: 25px ;
+    font-family: cursive;}
+img { height: 250px ;
+      Width: 500px ;
+      border: 5px solid rgb(250, 234, 192);
+      border-radius: 25px;}
